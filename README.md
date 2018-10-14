@@ -21,4 +21,4 @@ Then it will launch the generated document in your default browser.
 
 2. Open and edit asyncapi.yml by your favor editor
 
-Wait second seconds. The content in the browser will be reloaded.
+Wait a few seconds. The content in the browser will be reloaded.
